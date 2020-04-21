@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  Money.cpp
+  Создание кода...
+C:\Users\Иван\OneDrive\Рабочий стол\Лабы\(23)Лаба 3к\Main.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Лаба 3к.vcxproj -> C:\Users\Иван\OneDrive\Рабочий стол\Лабы\(23)Лаба 3к\Debug\Лаба 3к.exe
